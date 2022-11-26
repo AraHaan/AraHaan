@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Metrics](https://raw.githubusercontent.com/AraHaan/AraHaan/output/github-metrics.svg)](https://metrics.lecoq.io)
+
+### 🐍 Snek
+
+![Snake](https://raw.githubusercontent.com/AraHaan/AraHaan/output/github-contribution-grid-snake.svg)
