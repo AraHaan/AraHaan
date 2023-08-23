@@ -35,5 +35,6 @@ jobs:
           keep_history: true
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snek"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
