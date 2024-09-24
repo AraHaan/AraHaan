@@ -102,7 +102,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            39 Issues opened
+                            38 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -356,7 +356,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 92k out of 145m users</span>
+                                    <span class="gh">ranked 92.1k out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">149</div>
                                     </div>
@@ -803,7 +803,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.68m out of 214m repositories</span>
+                                    <span class="gh">ranked 1.68m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -844,7 +844,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 887k out of 214m repositories</span>
+                                    <span class="gh">ranked 887k out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -977,7 +977,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 23:24:15 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Sept 2024, 00:23:04 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
